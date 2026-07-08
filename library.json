@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-07-08T17:10:20.411Z",
+  "version": 4,
+  "updatedAt": "2026-07-08T18:04:33.955Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -325,6 +325,78 @@
       "generatedFor": "unicorno",
       "safeTheme": "unicorno",
       "createdAt": "2026-07-08T17:10:18.333Z"
+    },
+    {
+      "id": "vampiro-sticker-01",
+      "title": "vampiro 1",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "stickers/generated/vampiro/vampiro-sticker-01.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:29.338Z"
+    },
+    {
+      "id": "vampiro-sticker-02",
+      "title": "vampiro 2",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "stickers/generated/vampiro/vampiro-sticker-02.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:30.288Z"
+    },
+    {
+      "id": "vampiro-sticker-03",
+      "title": "vampiro 3",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "stickers/generated/vampiro/vampiro-sticker-03.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:31.247Z"
+    },
+    {
+      "id": "vampiro-sticker-04",
+      "title": "vampiro 4",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "stickers/generated/vampiro/vampiro-sticker-04.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:32.171Z"
     }
   ],
   "backgrounds": [
@@ -429,6 +501,42 @@
       "generatedFor": "unicorno",
       "safeTheme": "unicorno",
       "createdAt": "2026-07-08T17:10:20.411Z"
+    },
+    {
+      "id": "vampiro-background-01",
+      "title": "vampiro sfondo 1",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "backgrounds/generated/vampiro/vampiro-background-01.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:33.095Z"
+    },
+    {
+      "id": "vampiro-background-02",
+      "title": "vampiro sfondo 2",
+      "category": "generated",
+      "pack": "generated-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "src": "backgrounds/generated/vampiro/vampiro-background-02.svg",
+      "generated": true,
+      "generatedFor": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-08T18:04:33.954Z"
     }
   ],
   "packs": [
@@ -445,6 +553,23 @@
       "stickerCount": 4,
       "backgroundCount": 2,
       "createdAt": "2026-07-08T17:10:20.411Z"
+    },
+    {
+      "id": "generated-vampiro",
+      "title": "vampiro",
+      "originalTheme": "vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "softTransformed": true,
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 2,
+      "createdAt": "2026-07-08T18:04:33.955Z"
     }
   ]
 }
