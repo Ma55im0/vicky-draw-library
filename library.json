@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-08T18:05:24.660Z",
+  "version": 6,
+  "updatedAt": "2026-07-08T21:37:25.050Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -457,6 +457,66 @@
       "generatedFor": "temporale",
       "safeTheme": "temporale",
       "createdAt": "2026-07-08T18:05:22.832Z"
+    },
+    {
+      "id": "robot-sticker-01",
+      "title": "robot 1",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "stickers/generated/robot/robot-sticker-01.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:19.014Z"
+    },
+    {
+      "id": "robot-sticker-02",
+      "title": "robot 2",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "stickers/generated/robot/robot-sticker-02.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:20.317Z"
+    },
+    {
+      "id": "robot-sticker-03",
+      "title": "robot 3",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "stickers/generated/robot/robot-sticker-03.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:21.528Z"
+    },
+    {
+      "id": "robot-sticker-04",
+      "title": "robot 4",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "stickers/generated/robot/robot-sticker-04.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:23.068Z"
     }
   ],
   "backgrounds": [
@@ -627,6 +687,36 @@
       "generatedFor": "temporale",
       "safeTheme": "temporale",
       "createdAt": "2026-07-08T18:05:24.660Z"
+    },
+    {
+      "id": "robot-background-01",
+      "title": "robot sfondo 1",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "backgrounds/generated/robot/robot-background-01.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:24.164Z"
+    },
+    {
+      "id": "robot-background-02",
+      "title": "robot sfondo 2",
+      "category": "generated",
+      "pack": "generated-robot",
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "src": "backgrounds/generated/robot/robot-background-02.svg",
+      "generated": true,
+      "generatedFor": "robot",
+      "safeTheme": "robot",
+      "createdAt": "2026-07-08T21:37:25.050Z"
     }
   ],
   "packs": [
@@ -674,6 +764,20 @@
       "stickerCount": 4,
       "backgroundCount": 2,
       "createdAt": "2026-07-08T18:05:24.660Z"
+    },
+    {
+      "id": "generated-robot",
+      "title": "robot",
+      "originalTheme": "robot",
+      "safeTheme": "robot",
+      "softTransformed": false,
+      "tags": [
+        "robot",
+        "generated"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 2,
+      "createdAt": "2026-07-08T21:37:25.050Z"
     }
   ]
 }
