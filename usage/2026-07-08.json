@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generatedCount": 2,
+  "generatedCount": 3,
   "themes": [
     {
       "theme": "unicorno",
@@ -9,6 +9,10 @@
     {
       "theme": "vampiro",
       "at": "2026-07-08T18:04:34.776Z"
+    },
+    {
+      "theme": "temporale",
+      "at": "2026-07-08T18:05:25.655Z"
     }
   ]
 }
