@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "updatedAt": "2026-07-08T22:20:49.964Z",
+  "version": 12,
+  "updatedAt": "2026-07-08T22:21:46.561Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -337,6 +337,82 @@
       "generatedFor": "vampiro",
       "safeTheme": "vampiretti simpatici per bambini",
       "createdAt": "2026-07-08T18:04:32.171Z"
+    },
+    {
+      "id": "vampiri-iconify-01",
+      "title": "vampiri 1 · man vampire",
+      "category": "imported",
+      "pack": "imported-vampiri",
+      "tags": [
+        "vampiri",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiri/vampiri-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:man-vampire",
+      "generatedFor": "vampiri",
+      "safeTheme": "vampiri",
+      "createdAt": "2026-07-08T22:21:41.610Z"
+    },
+    {
+      "id": "vampiri-iconify-02",
+      "title": "vampiri 2 · man vampire light",
+      "category": "imported",
+      "pack": "imported-vampiri",
+      "tags": [
+        "vampiri",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiri/vampiri-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:man-vampire-light",
+      "generatedFor": "vampiri",
+      "safeTheme": "vampiri",
+      "createdAt": "2026-07-08T22:21:41.688Z"
+    },
+    {
+      "id": "vampiri-iconify-03",
+      "title": "vampiri 3 · woman vampire",
+      "category": "imported",
+      "pack": "imported-vampiri",
+      "tags": [
+        "vampiri",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiri/vampiri-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:woman-vampire",
+      "generatedFor": "vampiri",
+      "safeTheme": "vampiri",
+      "createdAt": "2026-07-08T22:21:41.731Z"
+    },
+    {
+      "id": "vampiri-iconify-04",
+      "title": "vampiri 4 · woman vampire light",
+      "category": "imported",
+      "pack": "imported-vampiri",
+      "tags": [
+        "vampiri",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiri/vampiri-iconify-04.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:woman-vampire-light",
+      "generatedFor": "vampiri",
+      "safeTheme": "vampiri",
+      "createdAt": "2026-07-08T22:21:41.758Z"
     }
   ],
   "backgrounds": [
@@ -466,6 +542,23 @@
       "stickerCount": 4,
       "backgroundCount": 2,
       "createdAt": "2026-07-08T18:04:33.955Z"
+    },
+    {
+      "id": "imported-vampiri",
+      "title": "vampiri",
+      "originalTheme": "vampiri",
+      "safeTheme": "vampiri",
+      "softTransformed": false,
+      "provider": "iconify",
+      "tags": [
+        "vampiri",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-08T22:21:46.561Z"
     }
   ]
 }
