@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "updatedAt": "2026-07-08T22:22:13.381Z",
+  "version": 14,
+  "updatedAt": "2026-07-08T22:23:42.045Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -341,6 +341,82 @@
       "generatedFor": "vampiri",
       "safeTheme": "vampiri",
       "createdAt": "2026-07-08T22:21:41.758Z"
+    },
+    {
+      "id": "spazio-iconify-01",
+      "title": "spazio 1 · space",
+      "category": "imported",
+      "pack": "imported-spazio",
+      "tags": [
+        "spazio",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/spazio/spazio-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "lucide:space",
+      "generatedFor": "spazio",
+      "safeTheme": "spazio",
+      "createdAt": "2026-07-08T22:23:38.468Z"
+    },
+    {
+      "id": "spazio-iconify-02",
+      "title": "spazio 2 · space",
+      "category": "imported",
+      "pack": "imported-spazio",
+      "tags": [
+        "spazio",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/spazio/spazio-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "tabler:space",
+      "generatedFor": "spazio",
+      "safeTheme": "spazio",
+      "createdAt": "2026-07-08T22:23:38.499Z"
+    },
+    {
+      "id": "spazio-iconify-03",
+      "title": "spazio 3 · space off",
+      "category": "imported",
+      "pack": "imported-spazio",
+      "tags": [
+        "spazio",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/spazio/spazio-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "tabler:space-off",
+      "generatedFor": "spazio",
+      "safeTheme": "spazio",
+      "createdAt": "2026-07-08T22:23:38.975Z"
+    },
+    {
+      "id": "spazio-iconify-04",
+      "title": "spazio 4 · space station",
+      "category": "imported",
+      "pack": "imported-spazio",
+      "tags": [
+        "spazio",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/spazio/spazio-iconify-04.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "mdi:space-station",
+      "generatedFor": "spazio",
+      "safeTheme": "spazio",
+      "createdAt": "2026-07-08T22:23:39.014Z"
     }
   ],
   "backgrounds": [
@@ -434,6 +510,23 @@
       "stickerCount": 4,
       "backgroundCount": 0,
       "createdAt": "2026-07-08T22:21:46.561Z"
+    },
+    {
+      "id": "imported-spazio",
+      "title": "spazio",
+      "originalTheme": "spazio",
+      "safeTheme": "spazio",
+      "softTransformed": false,
+      "provider": "iconify",
+      "tags": [
+        "spazio",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-08T22:23:42.045Z"
     }
   ]
 }
