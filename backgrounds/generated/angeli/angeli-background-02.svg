@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(142, 92%, 91%)"/>
+      <stop offset="1" stop-color="hsl(212, 84%, 80%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <rect width="1600" height="1000" fill="hsla(6, 90%, 92%, 0.7)" opacity="0.28"/>
+  <g opacity="0.9"><circle cx="1076" cy="592" r="11.401954434812069" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="414" cy="214" r="21.77422423288226" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="1377" cy="432" r="22.85161005705595" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="1043" cy="245" r="22.64725811034441" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="1206" cy="114" r="19.342371862381697" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="601" cy="381" r="16.938369687646627" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="887" cy="410" r="10.44319362193346" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="344" cy="463" r="12.492844745516777" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="1052" cy="488" r="10.230180233716965" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="913" cy="455" r="20.252563249319792" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="568" cy="653" r="13.237144760787487" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="802" cy="626" r="21.447053838521242" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="564" cy="104" r="13.033445838838816" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="1087" cy="186" r="17.37300470098853" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="680" cy="438" r="23.00586846470833" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="1457" cy="126" r="10.598813749849796" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="939" cy="340" r="12.237314738333225" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="1554" cy="304" r="12.12493921071291" fill="hsl(72, 92%, 67%)" opacity="0.2"/><circle cx="1078" cy="585" r="22.5378421805799" fill="hsl(132, 80%, 78%)" opacity="0.2"/><circle cx="221" cy="469" r="24.074585258960724" fill="hsl(72, 92%, 67%)" opacity="0.2"/></g>
+  <g transform="translate(800 505)">
+    <path d="M -226 -64 H 226 Q 280 -64 280 -10 V 10 Q 280 64 226 64 H -226 Q -280 64 -280 10 V -10 Q -280 -64 -226 -64 Z" fill="rgba(255,255,255,0.48)" stroke="rgba(255,255,255,0.75)" stroke-width="6"/>
+    <text x="0" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="86" font-weight="800" fill="hsl(22, 56%, 32%)" opacity="0.72">angeli</text>
+  </g>
+</svg>
