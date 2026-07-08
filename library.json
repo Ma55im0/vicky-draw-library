@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-07-08T18:04:33.955Z",
+  "version": 5,
+  "updatedAt": "2026-07-08T18:05:24.660Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -397,6 +397,66 @@
       "generatedFor": "vampiro",
       "safeTheme": "vampiretti simpatici per bambini",
       "createdAt": "2026-07-08T18:04:32.171Z"
+    },
+    {
+      "id": "temporale-sticker-01",
+      "title": "temporale 1",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "stickers/generated/temporale/temporale-sticker-01.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:20.145Z"
+    },
+    {
+      "id": "temporale-sticker-02",
+      "title": "temporale 2",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "stickers/generated/temporale/temporale-sticker-02.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:20.983Z"
+    },
+    {
+      "id": "temporale-sticker-03",
+      "title": "temporale 3",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "stickers/generated/temporale/temporale-sticker-03.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:21.960Z"
+    },
+    {
+      "id": "temporale-sticker-04",
+      "title": "temporale 4",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "stickers/generated/temporale/temporale-sticker-04.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:22.832Z"
     }
   ],
   "backgrounds": [
@@ -537,6 +597,36 @@
       "generatedFor": "vampiro",
       "safeTheme": "vampiretti simpatici per bambini",
       "createdAt": "2026-07-08T18:04:33.954Z"
+    },
+    {
+      "id": "temporale-background-01",
+      "title": "temporale sfondo 1",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "backgrounds/generated/temporale/temporale-background-01.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:23.729Z"
+    },
+    {
+      "id": "temporale-background-02",
+      "title": "temporale sfondo 2",
+      "category": "generated",
+      "pack": "generated-temporale",
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "src": "backgrounds/generated/temporale/temporale-background-02.svg",
+      "generated": true,
+      "generatedFor": "temporale",
+      "safeTheme": "temporale",
+      "createdAt": "2026-07-08T18:05:24.660Z"
     }
   ],
   "packs": [
@@ -570,6 +660,20 @@
       "stickerCount": 4,
       "backgroundCount": 2,
       "createdAt": "2026-07-08T18:04:33.955Z"
+    },
+    {
+      "id": "generated-temporale",
+      "title": "temporale",
+      "originalTheme": "temporale",
+      "safeTheme": "temporale",
+      "softTransformed": false,
+      "tags": [
+        "temporale",
+        "generated"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 2,
+      "createdAt": "2026-07-08T18:05:24.660Z"
     }
   ]
 }
