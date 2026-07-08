@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-07-08T21:39:17.363Z",
+  "version": 8,
+  "updatedAt": "2026-07-08T22:11:56.352Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -517,66 +517,6 @@
       "generatedFor": "robot",
       "safeTheme": "robot",
       "createdAt": "2026-07-08T21:37:23.068Z"
-    },
-    {
-      "id": "angeli-sticker-01",
-      "title": "angeli 1",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "stickers/generated/angeli/angeli-sticker-01.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:13.235Z"
-    },
-    {
-      "id": "angeli-sticker-02",
-      "title": "angeli 2",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "stickers/generated/angeli/angeli-sticker-02.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:14.127Z"
-    },
-    {
-      "id": "angeli-sticker-03",
-      "title": "angeli 3",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "stickers/generated/angeli/angeli-sticker-03.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:15.025Z"
-    },
-    {
-      "id": "angeli-sticker-04",
-      "title": "angeli 4",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "stickers/generated/angeli/angeli-sticker-04.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:15.837Z"
     }
   ],
   "backgrounds": [
@@ -777,36 +717,6 @@
       "generatedFor": "robot",
       "safeTheme": "robot",
       "createdAt": "2026-07-08T21:37:25.050Z"
-    },
-    {
-      "id": "angeli-background-01",
-      "title": "angeli sfondo 1",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "backgrounds/generated/angeli/angeli-background-01.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:16.632Z"
-    },
-    {
-      "id": "angeli-background-02",
-      "title": "angeli sfondo 2",
-      "category": "generated",
-      "pack": "generated-angeli",
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "src": "backgrounds/generated/angeli/angeli-background-02.svg",
-      "generated": true,
-      "generatedFor": "angeli",
-      "safeTheme": "angeli",
-      "createdAt": "2026-07-08T21:39:17.363Z"
     }
   ],
   "packs": [
@@ -868,20 +778,6 @@
       "stickerCount": 4,
       "backgroundCount": 2,
       "createdAt": "2026-07-08T21:37:25.050Z"
-    },
-    {
-      "id": "generated-angeli",
-      "title": "angeli",
-      "originalTheme": "angeli",
-      "safeTheme": "angeli",
-      "softTransformed": false,
-      "tags": [
-        "angeli",
-        "generated"
-      ],
-      "stickerCount": 4,
-      "backgroundCount": 2,
-      "createdAt": "2026-07-08T21:39:17.363Z"
     }
   ]
 }
