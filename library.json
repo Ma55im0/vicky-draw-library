@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updatedAt": "2026-07-08T22:11:56.352Z",
+  "version": 9,
+  "updatedAt": "2026-07-08T22:18:13.442Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -265,66 +265,6 @@
         "scintille"
       ],
       "src": "stickers/party/gift-sparkle-01.svg"
-    },
-    {
-      "id": "unicorno-sticker-01",
-      "title": "unicorno 1",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "stickers/generated/unicorno/unicorno-sticker-01.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:15.299Z"
-    },
-    {
-      "id": "unicorno-sticker-02",
-      "title": "unicorno 2",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "stickers/generated/unicorno/unicorno-sticker-02.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:16.294Z"
-    },
-    {
-      "id": "unicorno-sticker-03",
-      "title": "unicorno 3",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "stickers/generated/unicorno/unicorno-sticker-03.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:17.297Z"
-    },
-    {
-      "id": "unicorno-sticker-04",
-      "title": "unicorno 4",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "stickers/generated/unicorno/unicorno-sticker-04.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:18.333Z"
     },
     {
       "id": "vampiro-sticker-01",
@@ -593,36 +533,6 @@
       "src": "backgrounds/paper/notebook-doodles-01.svg"
     },
     {
-      "id": "unicorno-background-01",
-      "title": "unicorno sfondo 1",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "backgrounds/generated/unicorno/unicorno-background-01.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:19.355Z"
-    },
-    {
-      "id": "unicorno-background-02",
-      "title": "unicorno sfondo 2",
-      "category": "generated",
-      "pack": "generated-unicorno",
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "src": "backgrounds/generated/unicorno/unicorno-background-02.svg",
-      "generated": true,
-      "generatedFor": "unicorno",
-      "safeTheme": "unicorno",
-      "createdAt": "2026-07-08T17:10:20.411Z"
-    },
-    {
       "id": "vampiro-background-01",
       "title": "vampiro sfondo 1",
       "category": "generated",
@@ -720,20 +630,6 @@
     }
   ],
   "packs": [
-    {
-      "id": "generated-unicorno",
-      "title": "unicorno",
-      "originalTheme": "unicorno",
-      "safeTheme": "unicorno",
-      "softTransformed": false,
-      "tags": [
-        "unicorno",
-        "generated"
-      ],
-      "stickerCount": 4,
-      "backgroundCount": 2,
-      "createdAt": "2026-07-08T17:10:20.411Z"
-    },
     {
       "id": "generated-vampiro",
       "title": "vampiro",
