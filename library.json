@@ -1,6 +1,344 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-07-08",
-  "stickers": [],
-  "backgrounds": []
+  "stickers": [
+    {
+      "id": "cat-rainbow-01",
+      "title": "Gatto arcobaleno",
+      "category": "animals",
+      "tags": [
+        "gatto",
+        "animale",
+        "arcobaleno",
+        "cute"
+      ],
+      "src": "stickers/animals/cat-rainbow-01.svg"
+    },
+    {
+      "id": "dog-star-01",
+      "title": "Cagnolino stella",
+      "category": "animals",
+      "tags": [
+        "cane",
+        "animale",
+        "stella",
+        "cucciolo"
+      ],
+      "src": "stickers/animals/dog-star-01.svg"
+    },
+    {
+      "id": "fox-leaf-01",
+      "title": "Volpe nel bosco",
+      "category": "animals",
+      "tags": [
+        "volpe",
+        "animale",
+        "bosco",
+        "natura"
+      ],
+      "src": "stickers/animals/fox-leaf-01.svg"
+    },
+    {
+      "id": "turtle-happy-01",
+      "title": "Tartaruga felice",
+      "category": "animals",
+      "tags": [
+        "tartaruga",
+        "animale",
+        "mare",
+        "verde"
+      ],
+      "src": "stickers/animals/turtle-happy-01.svg"
+    },
+    {
+      "id": "fish-bubbles-01",
+      "title": "Pesciolino bolle",
+      "category": "animals",
+      "tags": [
+        "pesce",
+        "mare",
+        "bolle",
+        "acqua"
+      ],
+      "src": "stickers/animals/fish-bubbles-01.svg"
+    },
+    {
+      "id": "butterfly-pastel-01",
+      "title": "Farfalla pastello",
+      "category": "nature",
+      "tags": [
+        "farfalla",
+        "primavera",
+        "fiore",
+        "natura"
+      ],
+      "src": "stickers/nature/butterfly-pastel-01.svg"
+    },
+    {
+      "id": "flower-smile-01",
+      "title": "Fiore sorriso",
+      "category": "nature",
+      "tags": [
+        "fiore",
+        "sorriso",
+        "primavera",
+        "natura"
+      ],
+      "src": "stickers/nature/flower-smile-01.svg"
+    },
+    {
+      "id": "sun-smile-01",
+      "title": "Sole sorriso",
+      "category": "nature",
+      "tags": [
+        "sole",
+        "estate",
+        "cielo",
+        "sorriso"
+      ],
+      "src": "stickers/nature/sun-smile-01.svg"
+    },
+    {
+      "id": "cloud-rainbow-01",
+      "title": "Nuvoletta rainbow",
+      "category": "nature",
+      "tags": [
+        "nuvola",
+        "arcobaleno",
+        "cielo",
+        "rainbow"
+      ],
+      "src": "stickers/nature/cloud-rainbow-01.svg"
+    },
+    {
+      "id": "unicorn-star-01",
+      "title": "Unicorno stellina",
+      "category": "fantasy",
+      "tags": [
+        "unicorno",
+        "fantasy",
+        "magia",
+        "stella"
+      ],
+      "src": "stickers/fantasy/unicorn-star-01.svg"
+    },
+    {
+      "id": "castle-pink-01",
+      "title": "Castello rosa",
+      "category": "fantasy",
+      "tags": [
+        "castello",
+        "principessa",
+        "favola",
+        "rosa"
+      ],
+      "src": "stickers/fantasy/castle-pink-01.svg"
+    },
+    {
+      "id": "dragon-baby-01",
+      "title": "Draghetto",
+      "category": "fantasy",
+      "tags": [
+        "drago",
+        "fantasy",
+        "cute",
+        "verde"
+      ],
+      "src": "stickers/fantasy/dragon-baby-01.svg"
+    },
+    {
+      "id": "magic-wand-01",
+      "title": "Bacchetta magica",
+      "category": "fantasy",
+      "tags": [
+        "magia",
+        "bacchetta",
+        "stella",
+        "fantasy"
+      ],
+      "src": "stickers/fantasy/magic-wand-01.svg"
+    },
+    {
+      "id": "rocket-rainbow-01",
+      "title": "Razzo arcobaleno",
+      "category": "space",
+      "tags": [
+        "razzo",
+        "spazio",
+        "arcobaleno",
+        "rocket"
+      ],
+      "src": "stickers/space/rocket-rainbow-01.svg"
+    },
+    {
+      "id": "planet-smile-01",
+      "title": "Pianeta sorriso",
+      "category": "space",
+      "tags": [
+        "pianeta",
+        "spazio",
+        "saturno",
+        "stelle"
+      ],
+      "src": "stickers/space/planet-smile-01.svg"
+    },
+    {
+      "id": "alien-friendly-01",
+      "title": "Alieno amico",
+      "category": "space",
+      "tags": [
+        "alieno",
+        "spazio",
+        "ufo",
+        "verde"
+      ],
+      "src": "stickers/space/alien-friendly-01.svg"
+    },
+    {
+      "id": "soccer-cute-01",
+      "title": "Pallone calcio",
+      "category": "sport",
+      "tags": [
+        "calcio",
+        "pallone",
+        "sport",
+        "football"
+      ],
+      "src": "stickers/sport/soccer-cute-01.svg"
+    },
+    {
+      "id": "medal-star-01",
+      "title": "Medaglia stella",
+      "category": "sport",
+      "tags": [
+        "medaglia",
+        "sport",
+        "premio",
+        "stella"
+      ],
+      "src": "stickers/sport/medal-star-01.svg"
+    },
+    {
+      "id": "cupcake-heart-01",
+      "title": "Cupcake cuore",
+      "category": "food",
+      "tags": [
+        "cupcake",
+        "dolce",
+        "cuore",
+        "festa"
+      ],
+      "src": "stickers/food/cupcake-heart-01.svg"
+    },
+    {
+      "id": "icecream-rainbow-01",
+      "title": "Gelato rainbow",
+      "category": "food",
+      "tags": [
+        "gelato",
+        "estate",
+        "dolce",
+        "arcobaleno"
+      ],
+      "src": "stickers/food/icecream-rainbow-01.svg"
+    },
+    {
+      "id": "balloon-heart-01",
+      "title": "Palloncino cuore",
+      "category": "party",
+      "tags": [
+        "palloncino",
+        "festa",
+        "cuore",
+        "compleanno"
+      ],
+      "src": "stickers/party/balloon-heart-01.svg"
+    },
+    {
+      "id": "gift-sparkle-01",
+      "title": "Regalo scintille",
+      "category": "party",
+      "tags": [
+        "regalo",
+        "festa",
+        "compleanno",
+        "scintille"
+      ],
+      "src": "stickers/party/gift-sparkle-01.svg"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "rainbow-clouds-01",
+      "title": "Nuvole arcobaleno",
+      "category": "nature",
+      "tags": [
+        "arcobaleno",
+        "nuvole",
+        "cielo",
+        "colori"
+      ],
+      "src": "backgrounds/nature/rainbow-clouds-01.svg"
+    },
+    {
+      "id": "space-stars-01",
+      "title": "Spazio stellato",
+      "category": "space",
+      "tags": [
+        "spazio",
+        "stelle",
+        "pianeti",
+        "notte"
+      ],
+      "src": "backgrounds/space/space-stars-01.svg"
+    },
+    {
+      "id": "ocean-day-01",
+      "title": "Giornata al mare",
+      "category": "sea",
+      "tags": [
+        "mare",
+        "spiaggia",
+        "estate",
+        "acqua"
+      ],
+      "src": "backgrounds/sea/ocean-day-01.svg"
+    },
+    {
+      "id": "green-hills-01",
+      "title": "Colline verdi",
+      "category": "nature",
+      "tags": [
+        "prato",
+        "colline",
+        "natura",
+        "verde"
+      ],
+      "src": "backgrounds/nature/green-hills-01.svg"
+    },
+    {
+      "id": "party-confetti-01",
+      "title": "Festa coriandoli",
+      "category": "party",
+      "tags": [
+        "festa",
+        "compleanno",
+        "coriandoli",
+        "party"
+      ],
+      "src": "backgrounds/party/party-confetti-01.svg"
+    },
+    {
+      "id": "notebook-doodles-01",
+      "title": "Quaderno doodle",
+      "category": "paper",
+      "tags": [
+        "quaderno",
+        "scuola",
+        "righe",
+        "doodle"
+      ],
+      "src": "backgrounds/paper/notebook-doodles-01.svg"
+    }
+  ]
 }
