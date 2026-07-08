@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generatedCount": 6,
+  "generatedCount": 7,
   "themes": [
     {
       "theme": "unicorno",
@@ -25,6 +25,10 @@
     {
       "theme": "vampiri",
       "at": "2026-07-08T22:21:47.622Z"
+    },
+    {
+      "theme": "spazio",
+      "at": "2026-07-08T22:23:42.910Z"
     }
   ]
 }
