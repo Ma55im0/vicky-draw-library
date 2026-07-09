@@ -1,6 +1,6 @@
 {
-  "version": 1783614048821,
-  "updatedAt": "2026-07-09T16:20:48.821Z",
+  "version": 1783614048822,
+  "updatedAt": "2026-07-09T16:21:04.729Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -299,6 +299,26 @@
       ],
       "src": "stickers/sport/soccer-cute-01.svg",
       "source": "manual"
+    },
+    {
+      "id": "stickers-custom-stitch2-20260709162103-1l8tqi",
+      "title": "Stitch2",
+      "name": "Stitch2",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "disney",
+        "stitch2",
+        "custom"
+      ],
+      "keywords": "stitch disney stitch2",
+      "src": "stickers/custom/stitch2-20260709162103-1l8tqi.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 412,
+      "height": 433,
+      "uploadedAt": "2026-07-09T16:21:03.446Z"
     }
   ],
   "backgrounds": [
