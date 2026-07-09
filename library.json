@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updatedAt": "2026-07-09T06:15:51.987Z",
+  "version": 24,
+  "updatedAt": "2026-07-09T09:10:12.573Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -486,6 +486,82 @@
       "generatedFor": "Mobili",
       "safeTheme": "Mobili",
       "createdAt": "2026-07-09T06:15:48.792Z"
+    },
+    {
+      "id": "robot-iconify-01",
+      "title": "Robot 1 · robot",
+      "category": "imported",
+      "pack": "imported-robot",
+      "tags": [
+        "robot",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/robot/robot-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:robot",
+      "generatedFor": "Robot",
+      "safeTheme": "Robot",
+      "createdAt": "2026-07-09T09:10:08.645Z"
+    },
+    {
+      "id": "robot-iconify-02",
+      "title": "Robot 2 · robot",
+      "category": "imported",
+      "pack": "imported-robot",
+      "tags": [
+        "robot",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/robot/robot-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-high-contrast:robot",
+      "generatedFor": "Robot",
+      "safeTheme": "Robot",
+      "createdAt": "2026-07-09T09:10:08.674Z"
+    },
+    {
+      "id": "robot-iconify-03",
+      "title": "Robot 3 · robot",
+      "category": "imported",
+      "pack": "imported-robot",
+      "tags": [
+        "robot",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/robot/robot-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "noto:robot",
+      "generatedFor": "Robot",
+      "safeTheme": "Robot",
+      "createdAt": "2026-07-09T09:10:08.705Z"
+    },
+    {
+      "id": "robot-iconify-04",
+      "title": "Robot 4 · robot",
+      "category": "imported",
+      "pack": "imported-robot",
+      "tags": [
+        "robot",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/robot/robot-iconify-04.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "twemoji:robot",
+      "generatedFor": "Robot",
+      "safeTheme": "Robot",
+      "createdAt": "2026-07-09T09:10:08.726Z"
     }
   ],
   "backgrounds": [
@@ -616,6 +692,23 @@
       "stickerCount": 4,
       "backgroundCount": 0,
       "createdAt": "2026-07-09T06:15:51.987Z"
+    },
+    {
+      "id": "imported-robot",
+      "title": "Robot",
+      "originalTheme": "Robot",
+      "safeTheme": "Robot",
+      "softTransformed": false,
+      "provider": "iconify",
+      "tags": [
+        "robot",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-09T09:10:12.573Z"
     }
   ]
 }
