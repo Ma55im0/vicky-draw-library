@@ -1,6 +1,6 @@
 {
-  "version": 1783614048824,
-  "updatedAt": "2026-07-09T16:22:19.220Z",
+  "version": 1783614048825,
+  "updatedAt": "2026-07-09T16:22:58.445Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -341,6 +341,26 @@
       "width": 440,
       "height": 438,
       "uploadedAt": "2026-07-09T16:22:17.992Z"
+    },
+    {
+      "id": "stickers-custom-stitch3-20260709162257-qofh3n",
+      "title": "Stitch3",
+      "name": "Stitch3",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "disney",
+        "stitch3",
+        "custom"
+      ],
+      "keywords": "stitch disney stitch3",
+      "src": "stickers/custom/stitch3-20260709162257-qofh3n.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 390,
+      "height": 360,
+      "uploadedAt": "2026-07-09T16:22:57.117Z"
     }
   ],
   "backgrounds": [
