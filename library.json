@@ -1,6 +1,6 @@
 {
-  "version": 1783605922143,
-  "updatedAt": "2026-07-09T14:05:22.143Z",
+  "version": 1783605922144,
+  "updatedAt": "2026-07-09T14:06:07.102Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -302,22 +302,6 @@
     }
   ],
   "backgrounds": [
-    {
-      "id": "backgrounds-custom-3840x2160-hd-wallpaper-free-download-20260709132019-a4let4",
-      "title": "3840x2160 Hd Wallpaper Free Download 20260709132019 A4let4",
-      "category": "custom",
-      "tags": [
-        "3840x2160",
-        "hd",
-        "wallpaper",
-        "free",
-        "download",
-        "20260709132019",
-        "a4let4"
-      ],
-      "src": "backgrounds/custom/3840x2160-hd-wallpaper-free-download-20260709132019-a4let4.jpg",
-      "source": "manual"
-    },
     {
       "id": "backgrounds-nature-green-hills-01",
       "title": "Green Hills 01",
