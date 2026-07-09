@@ -1,6 +1,6 @@
 {
-  "version": 1783614023344,
-  "updatedAt": "2026-07-09T16:20:25.547Z",
+  "version": 1783614023345,
+  "updatedAt": "2026-07-09T16:20:34.062Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -299,24 +299,6 @@
       ],
       "src": "stickers/sport/soccer-cute-01.svg",
       "source": "manual"
-    },
-    {
-      "id": "stickers-custom-images-20260709162024-7rabke",
-      "title": "images",
-      "name": "images",
-      "category": "custom",
-      "tags": [
-        "images",
-        "custom"
-      ],
-      "keywords": "images",
-      "src": "stickers/custom/images-20260709162024-7rabke.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 412,
-      "height": 433,
-      "uploadedAt": "2026-07-09T16:20:24.294Z"
     }
   ],
   "backgrounds": [
