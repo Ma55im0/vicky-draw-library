@@ -1,6 +1,6 @@
 {
-  "version": 1783594298968,
-  "updatedAt": "2026-07-09T13:23:55.703Z",
+  "version": 1783594298969,
+  "updatedAt": "2026-07-09T13:44:42.014Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -359,6 +359,24 @@
       "width": 409,
       "height": 385,
       "uploadedAt": "2026-07-09T13:23:54.360Z"
+    },
+    {
+      "id": "stickers-custom-4193312-20260709134440-p787ce",
+      "title": "4193312",
+      "name": "4193312",
+      "category": "custom",
+      "tags": [
+        "4193312",
+        "custom"
+      ],
+      "keywords": "4193312",
+      "src": "stickers/custom/4193312-20260709134440-p787ce.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 256,
+      "height": 256,
+      "uploadedAt": "2026-07-09T13:44:40.783Z"
     }
   ],
   "backgrounds": [
