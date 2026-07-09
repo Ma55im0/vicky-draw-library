@@ -1,6 +1,6 @@
 {
-  "version": 1783614048825,
-  "updatedAt": "2026-07-09T16:22:58.445Z",
+  "version": 1783614048826,
+  "updatedAt": "2026-07-09T16:41:36.484Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -361,6 +361,25 @@
       "width": 390,
       "height": 360,
       "uploadedAt": "2026-07-09T16:22:57.117Z"
+    },
+    {
+      "id": "stickers-custom-gengar-20260709164135-0inq3s",
+      "title": "gengar",
+      "name": "gengar",
+      "category": "custom",
+      "tags": [
+        "gengar",
+        "pokemon",
+        "custom"
+      ],
+      "keywords": "gengar pokemon",
+      "src": "stickers/custom/gengar-20260709164135-0inq3s.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 444,
+      "height": 352,
+      "uploadedAt": "2026-07-09T16:41:35.226Z"
     }
   ],
   "backgrounds": [
