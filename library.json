@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-07-09T06:12:37.166Z",
+  "version": 22,
+  "updatedAt": "2026-07-09T06:14:02.367Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -353,6 +353,63 @@
       "generatedFor": "Vampiro",
       "safeTheme": "vampiretti simpatici per bambini",
       "createdAt": "2026-07-09T06:11:49.946Z"
+    },
+    {
+      "id": "halloween-iconify-01",
+      "title": "Halloween 1 · halloween",
+      "category": "imported",
+      "pack": "imported-halloween",
+      "tags": [
+        "halloween",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/halloween/halloween-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "mdi:halloween",
+      "generatedFor": "Halloween",
+      "safeTheme": "Halloween",
+      "createdAt": "2026-07-09T06:13:59.836Z"
+    },
+    {
+      "id": "halloween-iconify-02",
+      "title": "Halloween 2 · halloween candy",
+      "category": "imported",
+      "pack": "imported-halloween",
+      "tags": [
+        "halloween",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/halloween/halloween-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "streamline-ultimate:halloween-candy",
+      "generatedFor": "Halloween",
+      "safeTheme": "Halloween",
+      "createdAt": "2026-07-09T06:13:59.867Z"
+    },
+    {
+      "id": "halloween-iconify-03",
+      "title": "Halloween 3 · halloween candy bold",
+      "category": "imported",
+      "pack": "imported-halloween",
+      "tags": [
+        "halloween",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/halloween/halloween-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "streamline-ultimate:halloween-candy-bold",
+      "generatedFor": "Halloween",
+      "safeTheme": "Halloween",
+      "createdAt": "2026-07-09T06:13:59.891Z"
     }
   ],
   "backgrounds": [
@@ -449,6 +506,23 @@
       "stickerCount": 4,
       "backgroundCount": 0,
       "createdAt": "2026-07-09T06:11:53.265Z"
+    },
+    {
+      "id": "imported-halloween",
+      "title": "Halloween",
+      "originalTheme": "Halloween",
+      "safeTheme": "Halloween",
+      "softTransformed": false,
+      "provider": "iconify",
+      "tags": [
+        "halloween",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 3,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-09T06:14:02.367Z"
     }
   ]
 }
