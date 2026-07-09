@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "updatedAt": "2026-07-09T06:11:53.265Z",
+  "version": 21,
+  "updatedAt": "2026-07-09T06:12:37.166Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -267,44 +267,6 @@
       "src": "stickers/party/gift-sparkle-01.svg"
     },
     {
-      "id": "treno-iconify-01",
-      "title": "Treno 1 · italo treno",
-      "category": "imported",
-      "pack": "imported-treno",
-      "tags": [
-        "treno",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/treno/treno-iconify-01.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "arcticons:italo-treno",
-      "generatedFor": "Treno",
-      "safeTheme": "Treno",
-      "createdAt": "2026-07-09T06:10:34.584Z"
-    },
-    {
-      "id": "treno-iconify-02",
-      "title": "Treno 2 · trenord",
-      "category": "imported",
-      "pack": "imported-treno",
-      "tags": [
-        "treno",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/treno/treno-iconify-02.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "arcticons:trenord",
-      "generatedFor": "Treno",
-      "safeTheme": "Treno",
-      "createdAt": "2026-07-09T06:10:34.613Z"
-    },
-    {
       "id": "vampiro-iconify-01",
       "title": "Vampiro 1 · man vampire",
       "category": "imported",
@@ -468,23 +430,6 @@
     }
   ],
   "packs": [
-    {
-      "id": "imported-treno",
-      "title": "Treno",
-      "originalTheme": "Treno",
-      "safeTheme": "Treno",
-      "softTransformed": false,
-      "provider": "iconify",
-      "tags": [
-        "treno",
-        "generated",
-        "imported",
-        "iconify"
-      ],
-      "stickerCount": 2,
-      "backgroundCount": 0,
-      "createdAt": "2026-07-09T06:10:36.328Z"
-    },
     {
       "id": "imported-vampiro",
       "title": "Vampiro",
