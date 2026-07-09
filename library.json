@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "updatedAt": "2026-07-09T06:10:36.327Z",
+  "version": 20,
+  "updatedAt": "2026-07-09T06:11:53.265Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -303,6 +303,94 @@
       "generatedFor": "Treno",
       "safeTheme": "Treno",
       "createdAt": "2026-07-09T06:10:34.613Z"
+    },
+    {
+      "id": "vampiro-iconify-01",
+      "title": "Vampiro 1 · man vampire",
+      "category": "imported",
+      "pack": "imported-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiro/vampiro-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:man-vampire",
+      "generatedFor": "Vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-09T06:11:49.871Z"
+    },
+    {
+      "id": "vampiro-iconify-02",
+      "title": "Vampiro 2 · man vampire light",
+      "category": "imported",
+      "pack": "imported-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiro/vampiro-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:man-vampire-light",
+      "generatedFor": "Vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-09T06:11:49.893Z"
+    },
+    {
+      "id": "vampiro-iconify-03",
+      "title": "Vampiro 3 · woman vampire",
+      "category": "imported",
+      "pack": "imported-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiro/vampiro-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:woman-vampire",
+      "generatedFor": "Vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-09T06:11:49.915Z"
+    },
+    {
+      "id": "vampiro-iconify-04",
+      "title": "Vampiro 4 · woman vampire light",
+      "category": "imported",
+      "pack": "imported-vampiro",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/vampiro/vampiro-iconify-04.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "fluent-emoji-flat:woman-vampire-light",
+      "generatedFor": "Vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "createdAt": "2026-07-09T06:11:49.946Z"
     }
   ],
   "backgrounds": [
@@ -396,6 +484,26 @@
       "stickerCount": 2,
       "backgroundCount": 0,
       "createdAt": "2026-07-09T06:10:36.328Z"
+    },
+    {
+      "id": "imported-vampiro",
+      "title": "Vampiro",
+      "originalTheme": "Vampiro",
+      "safeTheme": "vampiretti simpatici per bambini",
+      "softTransformed": true,
+      "provider": "iconify",
+      "tags": [
+        "vampiro",
+        "halloween",
+        "spooky",
+        "cute",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-09T06:11:53.265Z"
     }
   ]
 }
