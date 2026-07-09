@@ -1,6 +1,6 @@
 {
-  "version": 1783594298977,
-  "updatedAt": "2026-07-09T13:46:02.714Z",
+  "version": 1783594298978,
+  "updatedAt": "2026-07-09T13:46:06.954Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -485,6 +485,24 @@
       "width": 526,
       "height": 342,
       "uploadedAt": "2026-07-09T13:46:01.660Z"
+    },
+    {
+      "id": "stickers-custom-images-20260709134605-nsb1zp",
+      "title": "images",
+      "name": "images",
+      "category": "custom",
+      "tags": [
+        "images",
+        "custom"
+      ],
+      "keywords": "images",
+      "src": "stickers/custom/images-20260709134605-nsb1zp.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 375,
+      "height": 435,
+      "uploadedAt": "2026-07-09T13:46:05.888Z"
     }
   ],
   "backgrounds": [
