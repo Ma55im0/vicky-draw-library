@@ -1,6 +1,6 @@
 {
-  "version": 1783614048823,
-  "updatedAt": "2026-07-09T16:21:10.510Z",
+  "version": 1783614048824,
+  "updatedAt": "2026-07-09T16:22:19.220Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -319,6 +319,28 @@
       "width": 412,
       "height": 433,
       "uploadedAt": "2026-07-09T16:21:03.446Z"
+    },
+    {
+      "id": "stickers-custom-stitch-angel-20260709162217-n6oaxt",
+      "title": "Stitch&Angel",
+      "name": "Stitch&Angel",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "disney",
+        "angel",
+        "love",
+        "amore",
+        "custom"
+      ],
+      "keywords": "stitch disney angel love amore stitch&angel",
+      "src": "stickers/custom/stitch-angel-20260709162217-n6oaxt.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 440,
+      "height": 438,
+      "uploadedAt": "2026-07-09T16:22:17.992Z"
     }
   ],
   "backgrounds": [
