@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedCount": 3,
+  "generatedCount": 4,
   "themes": [
     {
       "theme": "Treno",
@@ -13,6 +13,10 @@
     {
       "theme": "Halloween",
       "at": "2026-07-09T06:14:03.126Z"
+    },
+    {
+      "theme": "Mobili",
+      "at": "2026-07-09T06:15:52.751Z"
     }
   ]
 }
