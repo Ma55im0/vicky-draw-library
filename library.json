@@ -1,6 +1,6 @@
 {
-  "version": 1783594298959,
-  "updatedAt": "2026-07-09T13:19:45.584Z",
+  "version": 1783594298960,
+  "updatedAt": "2026-07-09T13:20:20.929Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -365,6 +365,29 @@
       ],
       "src": "backgrounds/space/space-stars-01.svg",
       "source": "manual"
+    },
+    {
+      "id": "backgrounds-custom-3840x2160-hd-wallpaper-free-download-20260709132019-a4let4",
+      "title": "3840x2160 HD Wallpaper Free download",
+      "name": "3840x2160 HD Wallpaper Free download",
+      "category": "custom",
+      "tags": [
+        "3840x2160",
+        "hd",
+        "wallpaper",
+        "free",
+        "download",
+        "wallpa",
+        "custom"
+      ],
+      "keywords": "3840x2160 hd wallpaper free download",
+      "src": "backgrounds/custom/3840x2160-hd-wallpaper-free-download-20260709132019-a4let4.jpg",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 667,
+      "uploadedAt": "2026-07-09T13:20:19.690Z"
     }
   ]
 }
