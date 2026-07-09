@@ -1,621 +1,370 @@
 {
-  "version": 25,
-  "updatedAt": "2026-07-09T09:10:29.989Z",
+  "version": 1783585135380,
+  "updatedAt": "2026-07-09T08:18:55.380Z",
   "stickers": [
     {
-      "id": "cat-rainbow-01",
-      "title": "Gatto arcobaleno",
+      "id": "stickers-animals-cat-rainbow-01",
+      "title": "Cat Rainbow 01",
       "category": "animals",
       "tags": [
-        "gatto",
-        "animale",
-        "arcobaleno",
-        "cute"
+        "animals",
+        "cat",
+        "rainbow",
+        "01"
       ],
-      "src": "stickers/animals/cat-rainbow-01.svg"
+      "src": "stickers/animals/cat-rainbow-01.svg",
+      "source": "manual"
     },
     {
-      "id": "dog-star-01",
-      "title": "Cagnolino stella",
+      "id": "stickers-animals-dog-star-01",
+      "title": "Dog Star 01",
       "category": "animals",
       "tags": [
-        "cane",
-        "animale",
-        "stella",
-        "cucciolo"
+        "animals",
+        "dog",
+        "star",
+        "01"
       ],
-      "src": "stickers/animals/dog-star-01.svg"
+      "src": "stickers/animals/dog-star-01.svg",
+      "source": "manual"
     },
     {
-      "id": "fox-leaf-01",
-      "title": "Volpe nel bosco",
+      "id": "stickers-animals-fish-bubbles-01",
+      "title": "Fish Bubbles 01",
       "category": "animals",
       "tags": [
-        "volpe",
-        "animale",
-        "bosco",
-        "natura"
+        "animals",
+        "fish",
+        "bubbles",
+        "01"
       ],
-      "src": "stickers/animals/fox-leaf-01.svg"
+      "src": "stickers/animals/fish-bubbles-01.svg",
+      "source": "manual"
     },
     {
-      "id": "turtle-happy-01",
-      "title": "Tartaruga felice",
+      "id": "stickers-animals-fox-leaf-01",
+      "title": "Fox Leaf 01",
       "category": "animals",
       "tags": [
-        "tartaruga",
-        "animale",
-        "mare",
-        "verde"
+        "animals",
+        "fox",
+        "leaf",
+        "01"
       ],
-      "src": "stickers/animals/turtle-happy-01.svg"
+      "src": "stickers/animals/fox-leaf-01.svg",
+      "source": "manual"
     },
     {
-      "id": "fish-bubbles-01",
-      "title": "Pesciolino bolle",
+      "id": "stickers-animals-turtle-happy-01",
+      "title": "Turtle Happy 01",
       "category": "animals",
       "tags": [
-        "pesce",
-        "mare",
-        "bolle",
-        "acqua"
+        "animals",
+        "turtle",
+        "happy",
+        "01"
       ],
-      "src": "stickers/animals/fish-bubbles-01.svg"
+      "src": "stickers/animals/turtle-happy-01.svg",
+      "source": "manual"
     },
     {
-      "id": "butterfly-pastel-01",
-      "title": "Farfalla pastello",
-      "category": "nature",
-      "tags": [
-        "farfalla",
-        "primavera",
-        "fiore",
-        "natura"
-      ],
-      "src": "stickers/nature/butterfly-pastel-01.svg"
-    },
-    {
-      "id": "flower-smile-01",
-      "title": "Fiore sorriso",
-      "category": "nature",
-      "tags": [
-        "fiore",
-        "sorriso",
-        "primavera",
-        "natura"
-      ],
-      "src": "stickers/nature/flower-smile-01.svg"
-    },
-    {
-      "id": "sun-smile-01",
-      "title": "Sole sorriso",
-      "category": "nature",
-      "tags": [
-        "sole",
-        "estate",
-        "cielo",
-        "sorriso"
-      ],
-      "src": "stickers/nature/sun-smile-01.svg"
-    },
-    {
-      "id": "cloud-rainbow-01",
-      "title": "Nuvoletta rainbow",
-      "category": "nature",
-      "tags": [
-        "nuvola",
-        "arcobaleno",
-        "cielo",
-        "rainbow"
-      ],
-      "src": "stickers/nature/cloud-rainbow-01.svg"
-    },
-    {
-      "id": "unicorn-star-01",
-      "title": "Unicorno stellina",
+      "id": "stickers-fantasy-castle-pink-01",
+      "title": "Castle Pink 01",
       "category": "fantasy",
       "tags": [
-        "unicorno",
         "fantasy",
-        "magia",
-        "stella"
+        "castle",
+        "pink",
+        "01"
       ],
-      "src": "stickers/fantasy/unicorn-star-01.svg"
+      "src": "stickers/fantasy/castle-pink-01.svg",
+      "source": "manual"
     },
     {
-      "id": "castle-pink-01",
-      "title": "Castello rosa",
+      "id": "stickers-fantasy-dragon-baby-01",
+      "title": "Dragon Baby 01",
       "category": "fantasy",
       "tags": [
-        "castello",
-        "principessa",
-        "favola",
-        "rosa"
-      ],
-      "src": "stickers/fantasy/castle-pink-01.svg"
-    },
-    {
-      "id": "dragon-baby-01",
-      "title": "Draghetto",
-      "category": "fantasy",
-      "tags": [
-        "drago",
         "fantasy",
-        "cute",
-        "verde"
+        "dragon",
+        "baby",
+        "01"
       ],
-      "src": "stickers/fantasy/dragon-baby-01.svg"
+      "src": "stickers/fantasy/dragon-baby-01.svg",
+      "source": "manual"
     },
     {
-      "id": "magic-wand-01",
-      "title": "Bacchetta magica",
+      "id": "stickers-fantasy-magic-wand-01",
+      "title": "Magic Wand 01",
       "category": "fantasy",
       "tags": [
-        "magia",
-        "bacchetta",
-        "stella",
-        "fantasy"
+        "fantasy",
+        "magic",
+        "wand",
+        "01"
       ],
-      "src": "stickers/fantasy/magic-wand-01.svg"
+      "src": "stickers/fantasy/magic-wand-01.svg",
+      "source": "manual"
     },
     {
-      "id": "rocket-rainbow-01",
-      "title": "Razzo arcobaleno",
-      "category": "space",
+      "id": "stickers-fantasy-unicorn-star-01",
+      "title": "Unicorn Star 01",
+      "category": "fantasy",
       "tags": [
-        "razzo",
-        "spazio",
-        "arcobaleno",
-        "rocket"
+        "fantasy",
+        "unicorn",
+        "star",
+        "01"
       ],
-      "src": "stickers/space/rocket-rainbow-01.svg"
+      "src": "stickers/fantasy/unicorn-star-01.svg",
+      "source": "manual"
     },
     {
-      "id": "planet-smile-01",
-      "title": "Pianeta sorriso",
-      "category": "space",
-      "tags": [
-        "pianeta",
-        "spazio",
-        "saturno",
-        "stelle"
-      ],
-      "src": "stickers/space/planet-smile-01.svg"
-    },
-    {
-      "id": "alien-friendly-01",
-      "title": "Alieno amico",
-      "category": "space",
-      "tags": [
-        "alieno",
-        "spazio",
-        "ufo",
-        "verde"
-      ],
-      "src": "stickers/space/alien-friendly-01.svg"
-    },
-    {
-      "id": "soccer-cute-01",
-      "title": "Pallone calcio",
-      "category": "sport",
-      "tags": [
-        "calcio",
-        "pallone",
-        "sport",
-        "football"
-      ],
-      "src": "stickers/sport/soccer-cute-01.svg"
-    },
-    {
-      "id": "medal-star-01",
-      "title": "Medaglia stella",
-      "category": "sport",
-      "tags": [
-        "medaglia",
-        "sport",
-        "premio",
-        "stella"
-      ],
-      "src": "stickers/sport/medal-star-01.svg"
-    },
-    {
-      "id": "cupcake-heart-01",
-      "title": "Cupcake cuore",
+      "id": "stickers-food-cupcake-heart-01",
+      "title": "Cupcake Heart 01",
       "category": "food",
       "tags": [
+        "food",
         "cupcake",
-        "dolce",
-        "cuore",
-        "festa"
+        "heart",
+        "01"
       ],
-      "src": "stickers/food/cupcake-heart-01.svg"
+      "src": "stickers/food/cupcake-heart-01.svg",
+      "source": "manual"
     },
     {
-      "id": "icecream-rainbow-01",
-      "title": "Gelato rainbow",
+      "id": "stickers-food-icecream-rainbow-01",
+      "title": "Icecream Rainbow 01",
       "category": "food",
       "tags": [
-        "gelato",
-        "estate",
-        "dolce",
-        "arcobaleno"
+        "food",
+        "icecream",
+        "rainbow",
+        "01"
       ],
-      "src": "stickers/food/icecream-rainbow-01.svg"
+      "src": "stickers/food/icecream-rainbow-01.svg",
+      "source": "manual"
     },
     {
-      "id": "balloon-heart-01",
-      "title": "Palloncino cuore",
+      "id": "stickers-nature-butterfly-pastel-01",
+      "title": "Butterfly Pastel 01",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "butterfly",
+        "pastel",
+        "01"
+      ],
+      "src": "stickers/nature/butterfly-pastel-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-nature-cloud-rainbow-01",
+      "title": "Cloud Rainbow 01",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "cloud",
+        "rainbow",
+        "01"
+      ],
+      "src": "stickers/nature/cloud-rainbow-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-nature-flower-smile-01",
+      "title": "Flower Smile 01",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "flower",
+        "smile",
+        "01"
+      ],
+      "src": "stickers/nature/flower-smile-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-nature-sun-smile-01",
+      "title": "Sun Smile 01",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "sun",
+        "smile",
+        "01"
+      ],
+      "src": "stickers/nature/sun-smile-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-party-balloon-heart-01",
+      "title": "Balloon Heart 01",
       "category": "party",
       "tags": [
-        "palloncino",
-        "festa",
-        "cuore",
-        "compleanno"
+        "party",
+        "balloon",
+        "heart",
+        "01"
       ],
-      "src": "stickers/party/balloon-heart-01.svg"
+      "src": "stickers/party/balloon-heart-01.svg",
+      "source": "manual"
     },
     {
-      "id": "gift-sparkle-01",
-      "title": "Regalo scintille",
+      "id": "stickers-party-gift-sparkle-01",
+      "title": "Gift Sparkle 01",
       "category": "party",
       "tags": [
-        "regalo",
-        "festa",
-        "compleanno",
-        "scintille"
+        "party",
+        "gift",
+        "sparkle",
+        "01"
       ],
-      "src": "stickers/party/gift-sparkle-01.svg"
+      "src": "stickers/party/gift-sparkle-01.svg",
+      "source": "manual"
     },
     {
-      "id": "vampiro-iconify-01",
-      "title": "Vampiro 1 · man vampire",
-      "category": "imported",
-      "pack": "imported-vampiro",
+      "id": "stickers-space-alien-friendly-01",
+      "title": "Alien Friendly 01",
+      "category": "space",
       "tags": [
-        "vampiro",
-        "halloween",
-        "spooky",
+        "space",
+        "alien",
+        "friendly",
+        "01"
+      ],
+      "src": "stickers/space/alien-friendly-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-space-planet-smile-01",
+      "title": "Planet Smile 01",
+      "category": "space",
+      "tags": [
+        "space",
+        "planet",
+        "smile",
+        "01"
+      ],
+      "src": "stickers/space/planet-smile-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-space-rocket-rainbow-01",
+      "title": "Rocket Rainbow 01",
+      "category": "space",
+      "tags": [
+        "space",
+        "rocket",
+        "rainbow",
+        "01"
+      ],
+      "src": "stickers/space/rocket-rainbow-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-sport-medal-star-01",
+      "title": "Medal Star 01",
+      "category": "sport",
+      "tags": [
+        "sport",
+        "medal",
+        "star",
+        "01"
+      ],
+      "src": "stickers/sport/medal-star-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-sport-soccer-cute-01",
+      "title": "Soccer Cute 01",
+      "category": "sport",
+      "tags": [
+        "sport",
+        "soccer",
         "cute",
-        "generated",
-        "iconify",
-        "imported"
+        "01"
       ],
-      "src": "stickers/imported/vampiro/vampiro-iconify-01.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-flat:man-vampire",
-      "generatedFor": "Vampiro",
-      "safeTheme": "vampiretti simpatici per bambini",
-      "createdAt": "2026-07-09T06:11:49.871Z"
-    },
-    {
-      "id": "vampiro-iconify-02",
-      "title": "Vampiro 2 · man vampire light",
-      "category": "imported",
-      "pack": "imported-vampiro",
-      "tags": [
-        "vampiro",
-        "halloween",
-        "spooky",
-        "cute",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/vampiro/vampiro-iconify-02.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-flat:man-vampire-light",
-      "generatedFor": "Vampiro",
-      "safeTheme": "vampiretti simpatici per bambini",
-      "createdAt": "2026-07-09T06:11:49.893Z"
-    },
-    {
-      "id": "vampiro-iconify-03",
-      "title": "Vampiro 3 · woman vampire",
-      "category": "imported",
-      "pack": "imported-vampiro",
-      "tags": [
-        "vampiro",
-        "halloween",
-        "spooky",
-        "cute",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/vampiro/vampiro-iconify-03.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-flat:woman-vampire",
-      "generatedFor": "Vampiro",
-      "safeTheme": "vampiretti simpatici per bambini",
-      "createdAt": "2026-07-09T06:11:49.915Z"
-    },
-    {
-      "id": "vampiro-iconify-04",
-      "title": "Vampiro 4 · woman vampire light",
-      "category": "imported",
-      "pack": "imported-vampiro",
-      "tags": [
-        "vampiro",
-        "halloween",
-        "spooky",
-        "cute",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/vampiro/vampiro-iconify-04.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-flat:woman-vampire-light",
-      "generatedFor": "Vampiro",
-      "safeTheme": "vampiretti simpatici per bambini",
-      "createdAt": "2026-07-09T06:11:49.946Z"
-    },
-    {
-      "id": "halloween-iconify-01",
-      "title": "Halloween 1 · halloween",
-      "category": "imported",
-      "pack": "imported-halloween",
-      "tags": [
-        "halloween",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/halloween/halloween-iconify-01.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "mdi:halloween",
-      "generatedFor": "Halloween",
-      "safeTheme": "Halloween",
-      "createdAt": "2026-07-09T06:13:59.836Z"
-    },
-    {
-      "id": "halloween-iconify-02",
-      "title": "Halloween 2 · halloween candy",
-      "category": "imported",
-      "pack": "imported-halloween",
-      "tags": [
-        "halloween",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/halloween/halloween-iconify-02.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "streamline-ultimate:halloween-candy",
-      "generatedFor": "Halloween",
-      "safeTheme": "Halloween",
-      "createdAt": "2026-07-09T06:13:59.867Z"
-    },
-    {
-      "id": "halloween-iconify-03",
-      "title": "Halloween 3 · halloween candy bold",
-      "category": "imported",
-      "pack": "imported-halloween",
-      "tags": [
-        "halloween",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/halloween/halloween-iconify-03.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "streamline-ultimate:halloween-candy-bold",
-      "generatedFor": "Halloween",
-      "safeTheme": "Halloween",
-      "createdAt": "2026-07-09T06:13:59.891Z"
-    },
-    {
-      "id": "robot-iconify-01",
-      "title": "Robot 1 · robot",
-      "category": "imported",
-      "pack": "imported-robot",
-      "tags": [
-        "robot",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/robot/robot-iconify-01.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-flat:robot",
-      "generatedFor": "Robot",
-      "safeTheme": "Robot",
-      "createdAt": "2026-07-09T09:10:08.645Z"
-    },
-    {
-      "id": "robot-iconify-02",
-      "title": "Robot 2 · robot",
-      "category": "imported",
-      "pack": "imported-robot",
-      "tags": [
-        "robot",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/robot/robot-iconify-02.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fluent-emoji-high-contrast:robot",
-      "generatedFor": "Robot",
-      "safeTheme": "Robot",
-      "createdAt": "2026-07-09T09:10:08.674Z"
-    },
-    {
-      "id": "robot-iconify-03",
-      "title": "Robot 3 · robot",
-      "category": "imported",
-      "pack": "imported-robot",
-      "tags": [
-        "robot",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/robot/robot-iconify-03.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "noto:robot",
-      "generatedFor": "Robot",
-      "safeTheme": "Robot",
-      "createdAt": "2026-07-09T09:10:08.705Z"
-    },
-    {
-      "id": "robot-iconify-04",
-      "title": "Robot 4 · robot",
-      "category": "imported",
-      "pack": "imported-robot",
-      "tags": [
-        "robot",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/robot/robot-iconify-04.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "twemoji:robot",
-      "generatedFor": "Robot",
-      "safeTheme": "Robot",
-      "createdAt": "2026-07-09T09:10:08.726Z"
+      "src": "stickers/sport/soccer-cute-01.svg",
+      "source": "manual"
     }
   ],
   "backgrounds": [
     {
-      "id": "rainbow-clouds-01",
-      "title": "Nuvole arcobaleno",
+      "id": "backgrounds-nature-green-hills-01",
+      "title": "Green Hills 01",
       "category": "nature",
       "tags": [
-        "arcobaleno",
-        "nuvole",
-        "cielo",
-        "colori"
+        "nature",
+        "green",
+        "hills",
+        "01"
       ],
-      "src": "backgrounds/nature/rainbow-clouds-01.svg"
+      "src": "backgrounds/nature/green-hills-01.svg",
+      "source": "manual"
     },
     {
-      "id": "space-stars-01",
-      "title": "Spazio stellato",
-      "category": "space",
-      "tags": [
-        "spazio",
-        "stelle",
-        "pianeti",
-        "notte"
-      ],
-      "src": "backgrounds/space/space-stars-01.svg"
-    },
-    {
-      "id": "ocean-day-01",
-      "title": "Giornata al mare",
-      "category": "sea",
-      "tags": [
-        "mare",
-        "spiaggia",
-        "estate",
-        "acqua"
-      ],
-      "src": "backgrounds/sea/ocean-day-01.svg"
-    },
-    {
-      "id": "green-hills-01",
-      "title": "Colline verdi",
+      "id": "backgrounds-nature-rainbow-clouds-01",
+      "title": "Rainbow Clouds 01",
       "category": "nature",
       "tags": [
-        "prato",
-        "colline",
-        "natura",
-        "verde"
+        "nature",
+        "rainbow",
+        "clouds",
+        "01"
       ],
-      "src": "backgrounds/nature/green-hills-01.svg"
+      "src": "backgrounds/nature/rainbow-clouds-01.svg",
+      "source": "manual"
     },
     {
-      "id": "party-confetti-01",
-      "title": "Festa coriandoli",
-      "category": "party",
-      "tags": [
-        "festa",
-        "compleanno",
-        "coriandoli",
-        "party"
-      ],
-      "src": "backgrounds/party/party-confetti-01.svg"
-    },
-    {
-      "id": "notebook-doodles-01",
-      "title": "Quaderno doodle",
+      "id": "backgrounds-paper-notebook-doodles-01",
+      "title": "Notebook Doodles 01",
       "category": "paper",
       "tags": [
-        "quaderno",
-        "scuola",
-        "righe",
-        "doodle"
+        "paper",
+        "notebook",
+        "doodles",
+        "01"
       ],
-      "src": "backgrounds/paper/notebook-doodles-01.svg"
-    }
-  ],
-  "packs": [
-    {
-      "id": "imported-vampiro",
-      "title": "Vampiro",
-      "originalTheme": "Vampiro",
-      "safeTheme": "vampiretti simpatici per bambini",
-      "softTransformed": true,
-      "provider": "iconify",
-      "tags": [
-        "vampiro",
-        "halloween",
-        "spooky",
-        "cute",
-        "generated",
-        "imported",
-        "iconify"
-      ],
-      "stickerCount": 4,
-      "backgroundCount": 0,
-      "createdAt": "2026-07-09T06:11:53.265Z"
+      "src": "backgrounds/paper/notebook-doodles-01.svg",
+      "source": "manual"
     },
     {
-      "id": "imported-halloween",
-      "title": "Halloween",
-      "originalTheme": "Halloween",
-      "safeTheme": "Halloween",
-      "softTransformed": false,
-      "provider": "iconify",
+      "id": "backgrounds-party-party-confetti-01",
+      "title": "Party Confetti 01",
+      "category": "party",
       "tags": [
-        "halloween",
-        "generated",
-        "imported",
-        "iconify"
+        "party",
+        "confetti",
+        "01"
       ],
-      "stickerCount": 3,
-      "backgroundCount": 0,
-      "createdAt": "2026-07-09T06:14:02.367Z"
+      "src": "backgrounds/party/party-confetti-01.svg",
+      "source": "manual"
     },
     {
-      "id": "imported-robot",
-      "title": "Robot",
-      "originalTheme": "Robot",
-      "safeTheme": "Robot",
-      "softTransformed": false,
-      "provider": "iconify",
+      "id": "backgrounds-sea-ocean-day-01",
+      "title": "Ocean Day 01",
+      "category": "sea",
       "tags": [
-        "robot",
-        "generated",
-        "imported",
-        "iconify"
+        "sea",
+        "ocean",
+        "day",
+        "01"
       ],
-      "stickerCount": 4,
-      "backgroundCount": 0,
-      "createdAt": "2026-07-09T09:10:12.573Z"
+      "src": "backgrounds/sea/ocean-day-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "backgrounds-space-space-stars-01",
+      "title": "Space Stars 01",
+      "category": "space",
+      "tags": [
+        "space",
+        "stars",
+        "01"
+      ],
+      "src": "backgrounds/space/space-stars-01.svg",
+      "source": "manual"
     }
   ]
 }

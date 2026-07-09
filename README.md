@@ -1,17 +1,15 @@
 # Vicky Draw Library
 
-Libreria curata di sticker e sfondi per Vicky Draw.
+Libreria condivisa gratuita per Vicky Draw.
 
-## Come aggiornare la libreria
+## Come aggiungere sticker e sfondi condivisi
 
-1. Aggiungi nuovi file SVG nelle cartelle `stickers` o `backgrounds`.
-2. Aggiungi una voce nel file `library.json` con `id`, `title`, `category`, `tags` e `src`.
-3. Fai commit e push su GitHub.
-4. Nell'app premi `Sticker/Sfondi` → `Aggiorna libreria`.
+1. Carica immagini in `stickers/custom/` oppure in una sottocartella tematica, per esempio `stickers/animals/`.
+2. Carica sfondi in `backgrounds/custom/` oppure in una sottocartella tematica, per esempio `backgrounds/fantasy/`.
+3. Fai commit su `main`.
+4. La GitHub Action rigenera `library.json` automaticamente.
+5. Nell'app premi `Aggiorna libreria`.
 
-## Regole consigliate
+Formati consigliati: PNG trasparenti o SVG per sticker; JPG/PNG/WebP orizzontali per sfondi.
 
-- Usa solo asset creati da te o con licenza chiara.
-- Evita personaggi famosi, marchi e immagini prese da Google.
-- Mantieni tag semplici in italiano.
-- Preferisci SVG leggeri e colorati.
+Le cartelle `generated`, `imported`, `iconify`, `ai` e `usage` vengono ignorate.
