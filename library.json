@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updatedAt": "2026-07-09T06:14:02.367Z",
+  "version": 23,
+  "updatedAt": "2026-07-09T06:15:51.987Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -410,6 +410,82 @@
       "generatedFor": "Halloween",
       "safeTheme": "Halloween",
       "createdAt": "2026-07-09T06:13:59.891Z"
+    },
+    {
+      "id": "mobili-iconify-01",
+      "title": "Mobili 1 · mobility",
+      "category": "imported",
+      "pack": "imported-mobili",
+      "tags": [
+        "mobili",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/mobili/mobili-iconify-01.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "arcticons:mobility",
+      "generatedFor": "Mobili",
+      "safeTheme": "Mobili",
+      "createdAt": "2026-07-09T06:15:48.714Z"
+    },
+    {
+      "id": "mobili-iconify-02",
+      "title": "Mobili 2 · mobilizon",
+      "category": "imported",
+      "pack": "imported-mobili",
+      "tags": [
+        "mobili",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/mobili/mobili-iconify-02.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "arcticons:mobilizon",
+      "generatedFor": "Mobili",
+      "safeTheme": "Mobili",
+      "createdAt": "2026-07-09T06:15:48.735Z"
+    },
+    {
+      "id": "mobili-iconify-03",
+      "title": "Mobili 3 · mobilizon",
+      "category": "imported",
+      "pack": "imported-mobili",
+      "tags": [
+        "mobili",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/mobili/mobili-iconify-03.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "selfhst:mobilizon",
+      "generatedFor": "Mobili",
+      "safeTheme": "Mobili",
+      "createdAt": "2026-07-09T06:15:48.758Z"
+    },
+    {
+      "id": "mobili-iconify-04",
+      "title": "Mobili 4 · mobilizon dark",
+      "category": "imported",
+      "pack": "imported-mobili",
+      "tags": [
+        "mobili",
+        "generated",
+        "iconify",
+        "imported"
+      ],
+      "src": "stickers/imported/mobili/mobili-iconify-04.svg",
+      "imported": true,
+      "provider": "iconify",
+      "sourceIcon": "selfhst:mobilizon-dark",
+      "generatedFor": "Mobili",
+      "safeTheme": "Mobili",
+      "createdAt": "2026-07-09T06:15:48.792Z"
     }
   ],
   "backgrounds": [
@@ -523,6 +599,23 @@
       "stickerCount": 3,
       "backgroundCount": 0,
       "createdAt": "2026-07-09T06:14:02.367Z"
+    },
+    {
+      "id": "imported-mobili",
+      "title": "Mobili",
+      "originalTheme": "Mobili",
+      "safeTheme": "Mobili",
+      "softTransformed": false,
+      "provider": "iconify",
+      "tags": [
+        "mobili",
+        "generated",
+        "imported",
+        "iconify"
+      ],
+      "stickerCount": 4,
+      "backgroundCount": 0,
+      "createdAt": "2026-07-09T06:15:51.987Z"
     }
   ]
 }
