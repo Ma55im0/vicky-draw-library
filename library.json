@@ -1,6 +1,6 @@
 {
-  "version": 1783605710488,
-  "updatedAt": "2026-07-09T14:01:50.488Z",
+  "version": 1783605710489,
+  "updatedAt": "2026-07-09T14:05:04.691Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -65,18 +65,6 @@
         "01"
       ],
       "src": "stickers/animals/turtle-happy-01.svg",
-      "source": "manual"
-    },
-    {
-      "id": "stickers-custom-images-20260709132112-nw3yse",
-      "title": "Images 20260709132112 Nw3yse",
-      "category": "custom",
-      "tags": [
-        "images",
-        "20260709132112",
-        "nw3yse"
-      ],
-      "src": "stickers/custom/images-20260709132112-nw3yse.png",
       "source": "manual"
     },
     {
