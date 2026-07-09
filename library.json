@@ -1,6 +1,6 @@
 {
-  "version": 1783606309822,
-  "updatedAt": "2026-07-09T15:13:27.047Z",
+  "version": 1783610021941,
+  "updatedAt": "2026-07-09T15:13:41.941Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -65,6 +65,18 @@
         "01"
       ],
       "src": "stickers/animals/turtle-happy-01.svg",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-stitch-20260709144052-lkopd0",
+      "title": "Stitch 20260709144052 Lkopd0",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "20260709144052",
+        "lkopd0"
+      ],
+      "src": "stickers/custom/stitch-20260709144052-lkopd0.png",
       "source": "manual"
     },
     {
@@ -287,29 +299,6 @@
       ],
       "src": "stickers/sport/soccer-cute-01.svg",
       "source": "manual"
-    },
-    {
-      "id": "stickers-custom-stitch-20260709144052-lkopd0",
-      "title": "Stitch",
-      "name": "Stitch",
-      "category": "custom",
-      "tags": [
-        "stitch",
-        "disney",
-        "musica",
-        "ukulele",
-        "strumenti",
-        "cartoni",
-        "custom"
-      ],
-      "keywords": "stitch disney musica ukulele strumenti cartoni",
-      "src": "stickers/custom/stitch-20260709144052-lkopd0.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 432,
-      "height": 462,
-      "uploadedAt": "2026-07-09T14:40:52.604Z"
     }
   ],
   "backgrounds": [
