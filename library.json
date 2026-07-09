@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "updatedAt": "2026-07-08T22:35:16.829Z",
+  "version": 18,
+  "updatedAt": "2026-07-09T06:09:24.807Z",
   "stickers": [
     {
       "id": "cat-rainbow-01",
@@ -265,82 +265,6 @@
         "scintille"
       ],
       "src": "stickers/party/gift-sparkle-01.svg"
-    },
-    {
-      "id": "italia-iconify-01",
-      "title": "italia 1 · italianflag",
-      "category": "imported",
-      "pack": "imported-italia",
-      "tags": [
-        "italia",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/italia/italia-iconify-01.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "fxemoji:italianflag",
-      "generatedFor": "italia",
-      "safeTheme": "italia",
-      "createdAt": "2026-07-08T22:35:13.623Z"
-    },
-    {
-      "id": "italia-iconify-02",
-      "title": "italia 2 · food italian",
-      "category": "imported",
-      "pack": "imported-italia",
-      "tags": [
-        "italia",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/italia/italia-iconify-02.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "mdi:food-italian",
-      "generatedFor": "italia",
-      "safeTheme": "italia",
-      "createdAt": "2026-07-08T22:35:13.650Z"
-    },
-    {
-      "id": "italia-iconify-03",
-      "title": "italia 3 · italian lights",
-      "category": "imported",
-      "pack": "imported-italia",
-      "tags": [
-        "italia",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/italia/italia-iconify-03.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "mdi:italian-lights",
-      "generatedFor": "italia",
-      "safeTheme": "italia",
-      "createdAt": "2026-07-08T22:35:13.689Z"
-    },
-    {
-      "id": "italia-iconify-04",
-      "title": "italia 4 · italian lights off",
-      "category": "imported",
-      "pack": "imported-italia",
-      "tags": [
-        "italia",
-        "generated",
-        "iconify",
-        "imported"
-      ],
-      "src": "stickers/imported/italia/italia-iconify-04.svg",
-      "imported": true,
-      "provider": "iconify",
-      "sourceIcon": "mdi:italian-lights-off",
-      "generatedFor": "italia",
-      "safeTheme": "italia",
-      "createdAt": "2026-07-08T22:35:13.725Z"
     }
   ],
   "backgrounds": [
@@ -417,23 +341,5 @@
       "src": "backgrounds/paper/notebook-doodles-01.svg"
     }
   ],
-  "packs": [
-    {
-      "id": "imported-italia",
-      "title": "italia",
-      "originalTheme": "italia",
-      "safeTheme": "italia",
-      "softTransformed": false,
-      "provider": "iconify",
-      "tags": [
-        "italia",
-        "generated",
-        "imported",
-        "iconify"
-      ],
-      "stickerCount": 4,
-      "backgroundCount": 0,
-      "createdAt": "2026-07-08T22:35:16.829Z"
-    }
-  ]
+  "packs": []
 }
