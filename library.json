@@ -1,6 +1,6 @@
 {
-  "version": 1783614048827,
-  "updatedAt": "2026-07-09T16:42:56.794Z",
+  "version": 1783614048828,
+  "updatedAt": "2026-07-09T16:44:30.534Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -399,6 +399,26 @@
       "width": 362,
       "height": 355,
       "uploadedAt": "2026-07-09T16:42:55.447Z"
+    },
+    {
+      "id": "stickers-custom-jigglypuff2-20260709164423-4cs3zh",
+      "title": "jigglypuff2",
+      "name": "jigglypuff2",
+      "category": "custom",
+      "tags": [
+        "jigglypuff",
+        "pokemon",
+        "jigglypuff2",
+        "custom"
+      ],
+      "keywords": "jigglypuff pokemon jigglypuff2",
+      "src": "stickers/custom/jigglypuff2-20260709164423-4cs3zh.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 448,
+      "height": 468,
+      "uploadedAt": "2026-07-09T16:44:23.789Z"
     }
   ],
   "backgrounds": [
