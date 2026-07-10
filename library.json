@@ -1,6 +1,6 @@
 {
-  "version": 1783689630410,
-  "updatedAt": "2026-07-10T13:24:15.439Z",
+  "version": 1783689630411,
+  "updatedAt": "2026-07-10T13:24:47.314Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -470,6 +470,24 @@
       "width": 253,
       "height": 199,
       "uploadedAt": "2026-07-10T13:24:14.333Z"
+    },
+    {
+      "id": "stickers-custom-pulcino-20260710132442-fed1s2",
+      "title": "Pulcino",
+      "name": "Pulcino",
+      "category": "custom",
+      "tags": [
+        "pulcino",
+        "custom"
+      ],
+      "keywords": "pulcino",
+      "src": "stickers/custom/pulcino-20260710132442-fed1s2.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 394,
+      "height": 504,
+      "uploadedAt": "2026-07-10T13:24:42.647Z"
     }
   ],
   "backgrounds": [
