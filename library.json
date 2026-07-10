@@ -1,6 +1,6 @@
 {
-  "version": 1783689630408,
-  "updatedAt": "2026-07-10T13:20:30.408Z",
+  "version": 1783689630409,
+  "updatedAt": "2026-07-10T13:23:49.821Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -432,6 +432,25 @@
       ],
       "src": "stickers/sport/soccer-cute-01.svg",
       "source": "manual"
+    },
+    {
+      "id": "stickers-custom-pulcino-spelacchiato-20260710132348-yknwab",
+      "title": "Pulcino spelacchiato",
+      "name": "Pulcino spelacchiato",
+      "category": "custom",
+      "tags": [
+        "pulcino",
+        "spelacchiato",
+        "custom"
+      ],
+      "keywords": "pulcino spelacchiato",
+      "src": "stickers/custom/pulcino-spelacchiato-20260710132348-yknwab.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 134,
+      "height": 163,
+      "uploadedAt": "2026-07-10T13:23:48.506Z"
     }
   ],
   "backgrounds": [
