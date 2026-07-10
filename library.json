@@ -1,6 +1,6 @@
 {
-  "version": 1783614048833,
-  "updatedAt": "2026-07-10T13:01:46.878Z",
+  "version": 1783614048834,
+  "updatedAt": "2026-07-10T13:02:38.564Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -500,6 +500,24 @@
       "width": 225,
       "height": 224,
       "uploadedAt": "2026-07-10T13:01:45.683Z"
+    },
+    {
+      "id": "stickers-custom-pippo-20260710130237-ri7iey",
+      "title": "Pippo",
+      "name": "Pippo",
+      "category": "custom",
+      "tags": [
+        "pippo",
+        "custom"
+      ],
+      "keywords": "pippo",
+      "src": "stickers/custom/pippo-20260710130237-ri7iey.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 619,
+      "height": 650,
+      "uploadedAt": "2026-07-10T13:02:37.392Z"
     }
   ],
   "backgrounds": [
