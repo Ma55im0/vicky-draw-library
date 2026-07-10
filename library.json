@@ -1,6 +1,6 @@
 {
-  "version": 1783614048829,
-  "updatedAt": "2026-07-10T05:40:46.073Z",
+  "version": 1783614048830,
+  "updatedAt": "2026-07-10T05:41:48.451Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -440,6 +440,28 @@
       "width": 611,
       "height": 635,
       "uploadedAt": "2026-07-10T05:40:44.514Z"
+    },
+    {
+      "id": "stickers-custom-squalo2-20260710054146-3w4xz0",
+      "title": "Squalo2",
+      "name": "Squalo2",
+      "category": "custom",
+      "tags": [
+        "squalo",
+        "pesci",
+        "mare",
+        "animali",
+        "squalo2",
+        "custom"
+      ],
+      "keywords": "squalo pesci mare animali squalo2",
+      "src": "stickers/custom/squalo2-20260710054146-3w4xz0.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 524,
+      "height": 566,
+      "uploadedAt": "2026-07-10T05:41:46.884Z"
     }
   ],
   "backgrounds": [
