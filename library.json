@@ -1,6 +1,6 @@
 {
-  "version": 1783614048836,
-  "updatedAt": "2026-07-10T13:03:52.567Z",
+  "version": 1783614048837,
+  "updatedAt": "2026-07-10T13:20:07.777Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -616,25 +616,6 @@
       "width": 1340,
       "height": 2100,
       "uploadedAt": "2026-07-10T05:44:51.785Z"
-    },
-    {
-      "id": "backgrounds-custom-colorato-20260710130328-d3zzxr",
-      "title": "Colorato",
-      "name": "Colorato",
-      "category": "custom",
-      "tags": [
-        "colori",
-        "colorato",
-        "custom"
-      ],
-      "keywords": "colori colorato",
-      "src": "backgrounds/custom/colorato-20260710130328-d3zzxr.jpg",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/jpeg",
-      "width": 1371,
-      "height": 2100,
-      "uploadedAt": "2026-07-10T13:03:28.080Z"
     },
     {
       "id": "backgrounds-custom-colorato-20260710130350-c4jvvl",
