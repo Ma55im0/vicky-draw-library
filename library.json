@@ -1,6 +1,6 @@
 {
-  "version": 1783614048830,
-  "updatedAt": "2026-07-10T05:41:48.451Z",
+  "version": 1783614048831,
+  "updatedAt": "2026-07-10T05:44:53.198Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -540,6 +540,26 @@
       ],
       "src": "backgrounds/space/space-stars-01.svg",
       "source": "manual"
+    },
+    {
+      "id": "backgrounds-custom-mare-20260710054451-pjb8hk",
+      "title": "Mare",
+      "name": "Mare",
+      "category": "custom",
+      "tags": [
+        "mare",
+        "vacanza",
+        "fiori",
+        "custom"
+      ],
+      "keywords": "mare vacanza fiori",
+      "src": "backgrounds/custom/mare-20260710054451-pjb8hk.jpg",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/jpeg",
+      "width": 1340,
+      "height": 2100,
+      "uploadedAt": "2026-07-10T05:44:51.785Z"
     }
   ]
 }
