@@ -1,6 +1,6 @@
 {
-  "version": 1783614048832,
-  "updatedAt": "2026-07-10T12:51:20.761Z",
+  "version": 1783614048833,
+  "updatedAt": "2026-07-10T13:01:46.878Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -481,6 +481,25 @@
       "width": 221,
       "height": 185,
       "uploadedAt": "2026-07-10T12:51:15.169Z"
+    },
+    {
+      "id": "stickers-custom-piscina-20260710130145-lzl2r5",
+      "title": "Piscina",
+      "name": "Piscina",
+      "category": "custom",
+      "tags": [
+        "piscina",
+        "acqua",
+        "custom"
+      ],
+      "keywords": "piscina acqua",
+      "src": "stickers/custom/piscina-20260710130145-lzl2r5.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 225,
+      "height": 224,
+      "uploadedAt": "2026-07-10T13:01:45.683Z"
     }
   ],
   "backgrounds": [
