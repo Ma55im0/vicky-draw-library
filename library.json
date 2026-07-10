@@ -1,6 +1,6 @@
 {
-  "version": 1783689630409,
-  "updatedAt": "2026-07-10T13:23:49.821Z",
+  "version": 1783689630410,
+  "updatedAt": "2026-07-10T13:24:15.439Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -451,6 +451,25 @@
       "width": 134,
       "height": 163,
       "uploadedAt": "2026-07-10T13:23:48.506Z"
+    },
+    {
+      "id": "stickers-custom-pulcino-sonnanbulo-20260710132414-uqh8im",
+      "title": "Pulcino sonnanbulo",
+      "name": "Pulcino sonnanbulo",
+      "category": "custom",
+      "tags": [
+        "pulcino",
+        "sonnanbulo",
+        "custom"
+      ],
+      "keywords": "pulcino sonnanbulo",
+      "src": "stickers/custom/pulcino-sonnanbulo-20260710132414-uqh8im.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 253,
+      "height": 199,
+      "uploadedAt": "2026-07-10T13:24:14.333Z"
     }
   ],
   "backgrounds": [
