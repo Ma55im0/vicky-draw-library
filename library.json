@@ -1,6 +1,6 @@
 {
-  "version": 1783614048838,
-  "updatedAt": "2026-07-10T13:20:10.544Z",
+  "version": 1783689630408,
+  "updatedAt": "2026-07-10T13:20:30.408Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -68,6 +68,102 @@
       "source": "manual"
     },
     {
+      "id": "stickers-custom-gengar-20260709164135-0inq3s",
+      "title": "Gengar 20260709164135 0inq3s",
+      "category": "custom",
+      "tags": [
+        "gengar",
+        "20260709164135",
+        "0inq3s"
+      ],
+      "src": "stickers/custom/gengar-20260709164135-0inq3s.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-jigglypuff-20260709164255-24wo6a",
+      "title": "Jigglypuff 20260709164255 24wo6a",
+      "category": "custom",
+      "tags": [
+        "jigglypuff",
+        "20260709164255",
+        "24wo6a"
+      ],
+      "src": "stickers/custom/jigglypuff-20260709164255-24wo6a.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-jigglypuff2-20260709164423-4cs3zh",
+      "title": "Jigglypuff2 20260709164423 4cs3zh",
+      "category": "custom",
+      "tags": [
+        "jigglypuff2",
+        "20260709164423",
+        "4cs3zh"
+      ],
+      "src": "stickers/custom/jigglypuff2-20260709164423-4cs3zh.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-pippo-20260710130237-ri7iey",
+      "title": "Pippo 20260710130237 Ri7iey",
+      "category": "custom",
+      "tags": [
+        "pippo",
+        "20260710130237",
+        "ri7iey"
+      ],
+      "src": "stickers/custom/pippo-20260710130237-ri7iey.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-piscina-20260710125115-rzl3b3",
+      "title": "Piscina 20260710125115 Rzl3b3",
+      "category": "custom",
+      "tags": [
+        "piscina",
+        "20260710125115",
+        "rzl3b3"
+      ],
+      "src": "stickers/custom/piscina-20260710125115-rzl3b3.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-piscina-20260710130145-lzl2r5",
+      "title": "Piscina 20260710130145 Lzl2r5",
+      "category": "custom",
+      "tags": [
+        "piscina",
+        "20260710130145",
+        "lzl2r5"
+      ],
+      "src": "stickers/custom/piscina-20260710130145-lzl2r5.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-squalo-20260710054044-5xw73w",
+      "title": "Squalo 20260710054044 5xw73w",
+      "category": "custom",
+      "tags": [
+        "squalo",
+        "20260710054044",
+        "5xw73w"
+      ],
+      "src": "stickers/custom/squalo-20260710054044-5xw73w.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-squalo2-20260710054146-3w4xz0",
+      "title": "Squalo2 20260710054146 3w4xz0",
+      "category": "custom",
+      "tags": [
+        "squalo2",
+        "20260710054146",
+        "3w4xz0"
+      ],
+      "src": "stickers/custom/squalo2-20260710054146-3w4xz0.png",
+      "source": "manual"
+    },
+    {
       "id": "stickers-custom-stitch-20260709151607-znjd6f",
       "title": "Stitch 20260709151607 Znjd6f",
       "category": "custom",
@@ -77,6 +173,43 @@
         "znjd6f"
       ],
       "src": "stickers/custom/stitch-20260709151607-znjd6f.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-stitch-angel-20260709162217-n6oaxt",
+      "title": "Stitch Angel 20260709162217 N6oaxt",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "angel",
+        "20260709162217",
+        "n6oaxt"
+      ],
+      "src": "stickers/custom/stitch-angel-20260709162217-n6oaxt.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-stitch2-20260709162103-1l8tqi",
+      "title": "Stitch2 20260709162103 1l8tqi",
+      "category": "custom",
+      "tags": [
+        "stitch2",
+        "20260709162103",
+        "1l8tqi"
+      ],
+      "src": "stickers/custom/stitch2-20260709162103-1l8tqi.png",
+      "source": "manual"
+    },
+    {
+      "id": "stickers-custom-stitch3-20260709162257-qofh3n",
+      "title": "Stitch3 20260709162257 Qofh3n",
+      "category": "custom",
+      "tags": [
+        "stitch3",
+        "20260709162257",
+        "qofh3n"
+      ],
+      "src": "stickers/custom/stitch3-20260709162257-qofh3n.png",
       "source": "manual"
     },
     {
@@ -299,228 +432,33 @@
       ],
       "src": "stickers/sport/soccer-cute-01.svg",
       "source": "manual"
-    },
-    {
-      "id": "stickers-custom-stitch2-20260709162103-1l8tqi",
-      "title": "Stitch2",
-      "name": "Stitch2",
-      "category": "custom",
-      "tags": [
-        "stitch",
-        "disney",
-        "stitch2",
-        "custom"
-      ],
-      "keywords": "stitch disney stitch2",
-      "src": "stickers/custom/stitch2-20260709162103-1l8tqi.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 412,
-      "height": 433,
-      "uploadedAt": "2026-07-09T16:21:03.446Z"
-    },
-    {
-      "id": "stickers-custom-stitch-angel-20260709162217-n6oaxt",
-      "title": "Stitch&Angel",
-      "name": "Stitch&Angel",
-      "category": "custom",
-      "tags": [
-        "stitch",
-        "disney",
-        "angel",
-        "love",
-        "amore",
-        "custom"
-      ],
-      "keywords": "stitch disney angel love amore stitch&angel",
-      "src": "stickers/custom/stitch-angel-20260709162217-n6oaxt.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 440,
-      "height": 438,
-      "uploadedAt": "2026-07-09T16:22:17.992Z"
-    },
-    {
-      "id": "stickers-custom-stitch3-20260709162257-qofh3n",
-      "title": "Stitch3",
-      "name": "Stitch3",
-      "category": "custom",
-      "tags": [
-        "stitch",
-        "disney",
-        "stitch3",
-        "custom"
-      ],
-      "keywords": "stitch disney stitch3",
-      "src": "stickers/custom/stitch3-20260709162257-qofh3n.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 390,
-      "height": 360,
-      "uploadedAt": "2026-07-09T16:22:57.117Z"
-    },
-    {
-      "id": "stickers-custom-gengar-20260709164135-0inq3s",
-      "title": "gengar",
-      "name": "gengar",
-      "category": "custom",
-      "tags": [
-        "gengar",
-        "pokemon",
-        "custom"
-      ],
-      "keywords": "gengar pokemon",
-      "src": "stickers/custom/gengar-20260709164135-0inq3s.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 444,
-      "height": 352,
-      "uploadedAt": "2026-07-09T16:41:35.226Z"
-    },
-    {
-      "id": "stickers-custom-jigglypuff-20260709164255-24wo6a",
-      "title": "jigglypuff",
-      "name": "jigglypuff",
-      "category": "custom",
-      "tags": [
-        "jigglypuff",
-        "pokemon",
-        "custom"
-      ],
-      "keywords": "jigglypuff pokemon",
-      "src": "stickers/custom/jigglypuff-20260709164255-24wo6a.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 362,
-      "height": 355,
-      "uploadedAt": "2026-07-09T16:42:55.447Z"
-    },
-    {
-      "id": "stickers-custom-jigglypuff2-20260709164423-4cs3zh",
-      "title": "jigglypuff2",
-      "name": "jigglypuff2",
-      "category": "custom",
-      "tags": [
-        "jigglypuff",
-        "pokemon",
-        "jigglypuff2",
-        "custom"
-      ],
-      "keywords": "jigglypuff pokemon jigglypuff2",
-      "src": "stickers/custom/jigglypuff2-20260709164423-4cs3zh.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 448,
-      "height": 468,
-      "uploadedAt": "2026-07-09T16:44:23.789Z"
-    },
-    {
-      "id": "stickers-custom-squalo-20260710054044-5xw73w",
-      "title": "Squalo",
-      "name": "Squalo",
-      "category": "custom",
-      "tags": [
-        "squalo",
-        "pesci",
-        "mare",
-        "animali",
-        "custom"
-      ],
-      "keywords": "squalo pesci mare animali",
-      "src": "stickers/custom/squalo-20260710054044-5xw73w.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 611,
-      "height": 635,
-      "uploadedAt": "2026-07-10T05:40:44.514Z"
-    },
-    {
-      "id": "stickers-custom-squalo2-20260710054146-3w4xz0",
-      "title": "Squalo2",
-      "name": "Squalo2",
-      "category": "custom",
-      "tags": [
-        "squalo",
-        "pesci",
-        "mare",
-        "animali",
-        "squalo2",
-        "custom"
-      ],
-      "keywords": "squalo pesci mare animali squalo2",
-      "src": "stickers/custom/squalo2-20260710054146-3w4xz0.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 524,
-      "height": 566,
-      "uploadedAt": "2026-07-10T05:41:46.884Z"
-    },
-    {
-      "id": "stickers-custom-piscina-20260710125115-rzl3b3",
-      "title": "Piscina",
-      "name": "Piscina",
-      "category": "custom",
-      "tags": [
-        "piscina",
-        "acqua",
-        "custom"
-      ],
-      "keywords": "piscina acqua",
-      "src": "stickers/custom/piscina-20260710125115-rzl3b3.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 221,
-      "height": 185,
-      "uploadedAt": "2026-07-10T12:51:15.169Z"
-    },
-    {
-      "id": "stickers-custom-piscina-20260710130145-lzl2r5",
-      "title": "Piscina",
-      "name": "Piscina",
-      "category": "custom",
-      "tags": [
-        "piscina",
-        "acqua",
-        "custom"
-      ],
-      "keywords": "piscina acqua",
-      "src": "stickers/custom/piscina-20260710130145-lzl2r5.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 225,
-      "height": 224,
-      "uploadedAt": "2026-07-10T13:01:45.683Z"
-    },
-    {
-      "id": "stickers-custom-pippo-20260710130237-ri7iey",
-      "title": "Pippo",
-      "name": "Pippo",
-      "category": "custom",
-      "tags": [
-        "pippo",
-        "custom"
-      ],
-      "keywords": "pippo",
-      "src": "stickers/custom/pippo-20260710130237-ri7iey.png",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/png",
-      "width": 619,
-      "height": 650,
-      "uploadedAt": "2026-07-10T13:02:37.392Z"
     }
   ],
   "backgrounds": [
+    {
+      "id": "backgrounds-custom-colorato-20260710130350-c4jvvl",
+      "title": "Colorato 20260710130350 C4jvvl",
+      "category": "custom",
+      "tags": [
+        "colorato",
+        "20260710130350",
+        "c4jvvl"
+      ],
+      "src": "backgrounds/custom/colorato-20260710130350-c4jvvl.jpg",
+      "source": "manual"
+    },
+    {
+      "id": "backgrounds-custom-mare-20260710054451-pjb8hk",
+      "title": "Mare 20260710054451 Pjb8hk",
+      "category": "custom",
+      "tags": [
+        "mare",
+        "20260710054451",
+        "pjb8hk"
+      ],
+      "src": "backgrounds/custom/mare-20260710054451-pjb8hk.jpg",
+      "source": "manual"
+    },
     {
       "id": "backgrounds-nature-green-hills-01",
       "title": "Green Hills 01",
@@ -596,45 +534,6 @@
       ],
       "src": "backgrounds/space/space-stars-01.svg",
       "source": "manual"
-    },
-    {
-      "id": "backgrounds-custom-mare-20260710054451-pjb8hk",
-      "title": "Mare",
-      "name": "Mare",
-      "category": "custom",
-      "tags": [
-        "mare",
-        "vacanza",
-        "fiori",
-        "custom"
-      ],
-      "keywords": "mare vacanza fiori",
-      "src": "backgrounds/custom/mare-20260710054451-pjb8hk.jpg",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/jpeg",
-      "width": 1340,
-      "height": 2100,
-      "uploadedAt": "2026-07-10T05:44:51.785Z"
-    },
-    {
-      "id": "backgrounds-custom-colorato-20260710130350-c4jvvl",
-      "title": "Colorato",
-      "name": "Colorato",
-      "category": "custom",
-      "tags": [
-        "colori",
-        "colorato",
-        "custom"
-      ],
-      "keywords": "colori colorato",
-      "src": "backgrounds/custom/colorato-20260710130350-c4jvvl.jpg",
-      "source": "manual-upload",
-      "canDelete": true,
-      "mimeType": "image/jpeg",
-      "width": 1371,
-      "height": 2100,
-      "uploadedAt": "2026-07-10T13:03:50.568Z"
     }
   ]
 }
