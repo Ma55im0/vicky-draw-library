@@ -1,6 +1,6 @@
 {
-  "version": 1783689630411,
-  "updatedAt": "2026-07-10T13:24:47.314Z",
+  "version": 1783689630412,
+  "updatedAt": "2026-07-13T09:54:42.324Z",
   "stickers": [
     {
       "id": "stickers-animals-cat-rainbow-01",
@@ -488,6 +488,26 @@
       "width": 394,
       "height": 504,
       "uploadedAt": "2026-07-10T13:24:42.647Z"
+    },
+    {
+      "id": "stickers-custom-sticth4-20260713095440-mo47nr",
+      "title": "sticth4",
+      "name": "sticth4",
+      "category": "custom",
+      "tags": [
+        "stitch",
+        "disney",
+        "sticth4",
+        "custom"
+      ],
+      "keywords": "stitch disney sticth4",
+      "src": "stickers/custom/sticth4-20260713095440-mo47nr.png",
+      "source": "manual-upload",
+      "canDelete": true,
+      "mimeType": "image/png",
+      "width": 423,
+      "height": 418,
+      "uploadedAt": "2026-07-13T09:54:40.885Z"
     }
   ],
   "backgrounds": [
